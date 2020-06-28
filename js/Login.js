@@ -1,4 +1,11 @@
 /*global $, document, window, setTimeout, navigator, console, location*/
+
+
+//jQuery time
+
+
+
+
 $(document).ready(function () {
     "use strict";
   
@@ -73,6 +80,39 @@ $(document).ready(function () {
       }
     });
   
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
   });
+  
+  
+
+
+
+
+
+
+
+
+
+
+
   
